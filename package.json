@@ -1,0 +1,17 @@
+{
+  "name": "generator-mis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generator"
+  ],
+  "author": "yiifaa",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^2.0.1"
+  }
+}
