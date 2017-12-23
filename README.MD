@@ -19,3 +19,7 @@ yo mis
 # domain.js为域对象，结合模板生成目标文件
 yo mis:sub index.html domain.js
 ```
+
+## 参考文档
+1. [文件操作](https://github.com/sboudrias/mem-fs-editor)
+2. [模板的详细操作](http://yeoman.io/authoring/file-system.html)
