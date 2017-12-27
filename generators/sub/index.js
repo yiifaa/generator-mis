@@ -38,6 +38,7 @@ module.exports = class extends Generator {
      */
     end () {
         this.log('generator is end!')
+        log
     }
 
     _buildFiles (filename) {

@@ -4,7 +4,7 @@ const Generator = require('yeoman-generator')
  *  必须要有这份文件
  */
 module.exports = class extends Generator {
-    
+
     constructor(args, opts) {
         super(args, opts)
         this.log(args)
